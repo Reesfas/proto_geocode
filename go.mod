@@ -1,4 +1,4 @@
-module github.com/Reesfas/Kata-hugo/proto_geocode/pkg/geocode
+module github.com/Reesfas/proto_geocode
 
 go 1.19
 
